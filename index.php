@@ -57,7 +57,7 @@
                 <link rel="stylesheet" href="styles.css">
             </head>
             <body>
-                <img class="bg" src="jonatan-pie-OPOg0fz5uIs-unsplash.jpg" alt="Travel">
+                <img class="bg" src="jonatan-pie-OPOg0fz5uIs-unsplash.jpg" alt="Travel" style="opacity: 0.9;">
                 <div class="container">
                     <h1>Welcome to BookApniTrip.com</h1>
                     <p>Enter your Details to confirm your participation.</p>
